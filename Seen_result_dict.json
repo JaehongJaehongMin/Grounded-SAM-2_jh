@@ -1,0 +1,3472 @@
+{
+    "pour": {
+        "wine_glass": {
+            "wine_glass_002399.jpg": [
+                "a glass of red wine.",
+                "glass of red wine",
+                "bowl"
+            ],
+            "wine_glass_002472.jpg": [
+                "the glass is clear.",
+                "wine glass",
+                "Bowl"
+            ],
+            "wine_glass_002282.jpg": [
+                "red wine in the glass.",
+                "wine glass",
+                "liquid"
+            ],
+            "wine_glass_002765.jpg": [
+                "the wine glass is empty.",
+                "wine glass",
+                "bowl"
+            ],
+            "wine_glass_001495.jpg": [
+                "a glass of red wine.",
+                "wine",
+                "liquid"
+            ],
+            "wine_glass_003596.jpg": [
+                "slice of orange in drink.",
+                "glass",
+                "liquid"
+            ],
+            "wine_glass_002566.jpg": [
+                "red wine in the glass.",
+                "Wine Glass",
+                "Bowl"
+            ],
+            "wine_glass_001595.jpg": [
+                "a glass of wine.",
+                "wine glass",
+                "Bowl"
+            ],
+            "wine_glass_000750.jpg": [
+                "a glass of wine.",
+                "glass",
+                "Bowl"
+            ],
+            "wine_glass_001721.jpg": [
+                "the base of the glass.",
+                "wine glass",
+                "liquid"
+            ],
+            "wine_glass_002374.jpg": [
+                "light reflecting off the glass.",
+                "wine glass",
+                "rim"
+            ],
+            "wine_glass_000665.jpg": [
+                "the glass is clear.",
+                "champagne flute",
+                "bowl"
+            ],
+            "wine_glass_003343.jpg": [
+                "red wine in the glass.",
+                "wine glass",
+                "bowl"
+            ],
+            "wine_glass_000500.jpg": [
+                "liquid in the glass.",
+                "wine glass",
+                "Bowl"
+            ],
+            "wine_glass_001415.jpg": [
+                "the liquid is brown.",
+                "glass",
+                "drink"
+            ],
+            "wine_glass_000606.jpg": [
+                "part of a glass.",
+                "wine glass",
+                "Bowl"
+            ],
+            "wine_glass_003375.jpg": [
+                "part of a glass.",
+                "wine glass",
+                "Bowl"
+            ],
+            "wine_glass_001657.jpg": [
+                "the wine is red.",
+                "wine glass",
+                "wine"
+            ],
+            "wine_glass_001599.jpg": [
+                "a slice of lime in a drink.",
+                "glass",
+                "liquid"
+            ],
+            "wine_glass_001774.jpg": [
+                "wine in the glass.",
+                "wine glass",
+                "bowl"
+            ],
+            "wine_glass_000186.jpg": [
+                "the liquid is red.",
+                "wine glass",
+                "liquid"
+            ],
+            "wine_glass_001304.jpg": [
+                "the glass is clear.",
+                "wine glass",
+                "bowl"
+            ],
+            "wine_glass_002271.jpg": [
+                "wine in the glass.",
+                "wine glass",
+                "bowl"
+            ],
+            "wine_glass_003389.jpg": [
+                "wine in the glass.",
+                "wine glass",
+                "Bowl"
+            ],
+            "wine_glass_002922.jpg": [
+                "part of a glass.",
+                "wine glass",
+                "Bowl"
+            ]
+        },
+        "cup": {
+            "cup_003621.jpg": [
+                "the rim of a coffee mug.",
+                "mug",
+                "rim"
+            ],
+            "cup_003729.jpg": [
+                "the cup is white in color.",
+                "Cup",
+                "Body"
+            ],
+            "cup_001157.jpg": [
+                "a cup of coffee.",
+                "Cup",
+                "Coffee"
+            ],
+            "cup_003613.jpg": [
+                "the liquid is brown in color.",
+                "Cup",
+                "Coffee"
+            ],
+            "cup_003209.jpg": [
+                "a cup of tea.",
+                "Cup",
+                "Tea"
+            ],
+            "cup_001864.jpg": [
+                "coffee in a white mug.",
+                "Cup",
+                "Coffee"
+            ],
+            "cup_002410.jpg": [
+                "the cup is white in color.",
+                "Teacup",
+                "Body"
+            ],
+            "cup_002062.jpg": [
+                "a white coffee mug.",
+                "coffee cup",
+                "rim"
+            ],
+            "cup_000574.jpg": [
+                "a cup of coffee.",
+                "Cup",
+                "Coffee"
+            ],
+            "cup_002969.jpg": [
+                "part of a glass.",
+                "Glass Mug",
+                "Body"
+            ],
+            "cup_002518.jpg": [
+                "a cup of tea.",
+                "Cup",
+                "Tea"
+            ],
+            "cup_003269.jpg": [
+                "the rim of the coffee cup.",
+                "coffee mug",
+                "rim"
+            ],
+            "cup_000447.jpg": [
+                "a white coffee mug.",
+                "Cup",
+                "Body"
+            ],
+            "cup_002043.jpg": [
+                "a cup of coffee.",
+                "Cup",
+                "Coffee"
+            ],
+            "cup_001668.jpg": [
+                "the coffee is in a cup.",
+                "Cup",
+                "Coffee"
+            ],
+            "cup_000231.jpg": [
+                "a cup of coffee.",
+                "Cup of Coffee",
+                "Coffee"
+            ],
+            "cup_002794.jpg": [
+                "a white coffee mug.",
+                "coffee cup",
+                "rim"
+            ],
+            "cup_000508.jpg": [
+                "part of a cup.",
+                "coffee mug",
+                "rim"
+            ],
+            "cup_003518.jpg": [
+                "handle of a mug.",
+                "Cup and Saucer",
+                "Handle"
+            ],
+            "cup_001535.jpg": [
+                "the cup is white in color.",
+                "cup of coffee",
+                "cup"
+            ],
+            "cup_002554.jpg": [
+                "the coffee is being poured into a stainless steel container.",
+                "Portafilter",
+                "basket"
+            ],
+            "cup_003644.jpg": [
+                "the cup is white in color.",
+                "Cup of Coffee",
+                "Cup"
+            ],
+            "cup_002760.jpg": [
+                "the liquid is brown in color.",
+                "Cup",
+                "Coffee"
+            ]
+        },
+        "bottle": {
+            "bottle_000625.jpg": [
+                "the cap is gold.",
+                "Beer Bottle",
+                "Cap"
+            ],
+            "bottle_002805.jpg": [
+                "a crown on the bottle.",
+                "bottle",
+                "cap"
+            ],
+            "bottle_001064.jpg": [
+                "the top of the bottle.",
+                "water bottle",
+                "cap"
+            ],
+            "bottle_002780.jpg": [
+                "white cap on the bottle.",
+                "bottle",
+                "nipple"
+            ],
+            "bottle_002895.jpg": [
+                "the top of the bottle.",
+                "Glass Bottle",
+                "Cork"
+            ],
+            "bottle_000830.jpg": [
+                "the mouth of a bottle.",
+                "beer bottle",
+                "cap"
+            ],
+            "bottle_000341.jpg": [
+                "yellow cap on bottle.",
+                "bottle",
+                "cap"
+            ],
+            "bottle_001033.jpg": [
+                "the bottle cap is green.",
+                "decorative bottle",
+                "cap"
+            ],
+            "bottle_002193.jpg": [
+                "the top of the bottle.",
+                "wine bottle",
+                "Cork"
+            ],
+            "bottle_001115.jpg": [
+                "a bottle of corona beer.",
+                "Bottle",
+                "Beer"
+            ],
+            "bottle_001167.jpg": [
+                "black lid on a bottle.",
+                "bottle",
+                "cap"
+            ],
+            "bottle_002218.jpg": [
+                "part of a bottle.",
+                "Bottle",
+                "Cap"
+            ],
+            "bottle_001569.jpg": [
+                "the cap is made of wood.",
+                "bottle",
+                "cork stopper"
+            ],
+            "bottle_002103.jpg": [
+                "the top of the bottle.",
+                "Coca-Cola bottle",
+                "Cap"
+            ],
+            "bottle_001227.jpg": [
+                "white cap on bottle.",
+                "bottle",
+                "opening"
+            ],
+            "bottle_003259.jpg": [
+                "the top of the bottle.",
+                "Coca-Cola bottle",
+                "Lip/Rim"
+            ]
+        }
+    },
+    "look_out": {
+        "binoculars": {
+            "binoculars_003630.jpg": [
+                "the right lens of the camera.",
+                "binoculars",
+                "eyepieces"
+            ],
+            "binoculars_003371.jpg": [
+                "the camera lens is black.",
+                "binoculars",
+                "eyepieces"
+            ],
+            "binoculars_003571.jpg": [
+                "the lens is black.",
+                "binoculars",
+                "eyepieces"
+            ],
+            "binoculars_000272.jpg": [
+                "the lens is black.",
+                "binoculars",
+                "eyepieces"
+            ],
+            "binoculars_000866.jpg": [
+                "the lens of a camera.",
+                "binoculars",
+                "eyepieces"
+            ]
+        }
+    },
+    "swing": {
+        "baseball_bat": {
+            "baseball_bat_000595.jpg": [
+                "the tip of the bat is black.",
+                "baseball bat",
+                "handle"
+            ],
+            "baseball_bat_000955.jpg": [
+                "a wooden baseball bat.",
+                "baseball bat",
+                "handle"
+            ],
+            "baseball_bat_003129.jpg": [
+                "the handle is black.",
+                "baseball bat",
+                "handle"
+            ],
+            "baseball_bat_000452.jpg": [
+                "black handle on bat.",
+                "baseball bat",
+                "handle"
+            ],
+            "baseball_bat_003712.jpg": [
+                "a wooden baseball bat.",
+                "baseball bat",
+                "handle"
+            ],
+            "baseball_bat_002423.jpg": [
+                "a wooden baseball bat.",
+                "baseball bat",
+                "handle"
+            ],
+            "baseball_bat_003051.jpg": [
+                "black and red baseball bat handle.",
+                "baseball bat",
+                "handle"
+            ],
+            "baseball_bat_001925.jpg": [
+                "a wooden baseball bat.",
+                "baseball bat",
+                "handle"
+            ],
+            "baseball_bat_000509.jpg": [
+                "the handle is black.",
+                "baseball bat",
+                "handle"
+            ],
+            "baseball_bat_001882.jpg": [
+                "the red tip of the bat.",
+                "bat",
+                "handle"
+            ],
+            "baseball_bat_002079.jpg": [
+                "a blue and yellow bat.",
+                "foam baseball bat",
+                "handle"
+            ],
+            "baseball_bat_002545.jpg": [
+                "the handle is black.",
+                "bat",
+                "handle/grip"
+            ],
+            "baseball_bat_001276.jpg": [
+                "the tip of the bat is black.",
+                "baseball bat",
+                "handle"
+            ],
+            "baseball_bat_001301.jpg": [
+                "the bat is black.",
+                "baseball bat",
+                "handle"
+            ],
+            "baseball_bat_002547.jpg": [
+                "the black plastic cap of the bat.",
+                "practice baseball bat",
+                "handle"
+            ],
+            "baseball_bat_003563.jpg": [
+                "the base of the bat.",
+                "baseball bat",
+                "handle"
+            ],
+            "baseball_bat_000012.jpg": [
+                "the wood is brown in color.",
+                "baseball bat",
+                "handle"
+            ]
+        },
+        "golf_clubs": {
+            "golf_clubs_003502.jpg": [
+                "the black tip of the handle.",
+                "golf putter",
+                "grip"
+            ],
+            "golf_clubs_001992.jpg": [
+                "the handle is black.",
+                "golf putter",
+                "grip"
+            ],
+            "golf_clubs_003641.jpg": [
+                "the handle is black.",
+                "golf putter",
+                "grip"
+            ],
+            "golf_clubs_001094.jpg": [
+                "the handle is brown.",
+                "golf putter",
+                "grip"
+            ],
+            "golf_clubs_000045.jpg": [
+                "the handle is black.",
+                "golf putter",
+                "grip"
+            ],
+            "golf_clubs_003141.jpg": [
+                "the black tip of the orange and white golf club.",
+                "Golf Club",
+                "Shaft"
+            ],
+            "golf_clubs_000638.jpg": [
+                "the handle of the golf club.",
+                "putter",
+                "grip"
+            ],
+            "golf_clubs_003588.jpg": [
+                "the handle is black.",
+                "golf putter",
+                "grip"
+            ]
+        },
+        "badminton_racket": {
+            "badminton_racket_000882.jpg": [
+                "black handle of tennis racket.",
+                "badminton racket",
+                "handle/grip"
+            ],
+            "badminton_racket_000023.jpg": [
+                "black handle on racket.",
+                "badminton racket",
+                "handle/grip"
+            ],
+            "badminton_racket_000004.jpg": [
+                "black grip on racket.",
+                "badminton racket",
+                "handle/grip"
+            ],
+            "badminton_racket_001989.jpg": [
+                "a tennis racket with a black handle.",
+                "badminton racket",
+                "handle/grip"
+            ],
+            "badminton_racket_002255.jpg": [
+                "black handle on racket.",
+                "badminton racket",
+                "handle/grip"
+            ],
+            "badminton_racket_003649.jpg": [
+                "the handle is black.",
+                "badminton racket",
+                "handle/grip"
+            ]
+        },
+        "tennis_racket": {
+            "tennis_racket_003485.jpg": [
+                "the handle of the tennis racket.",
+                "tennis racket",
+                "grip/handle"
+            ],
+            "tennis_racket_000964.jpg": [
+                "the handle is black.",
+                "tennis racket",
+                "grip/handle"
+            ],
+            "tennis_racket_000267.jpg": [
+                "the grip on the racket.",
+                "tennis racket",
+                "handle/grip"
+            ],
+            "tennis_racket_001468.jpg": [
+                "the handle is white.",
+                "tennis racket",
+                "grip/handle"
+            ],
+            "tennis_racket_002268.jpg": [
+                "the handle is white.",
+                "tennis racket",
+                "grip/handle"
+            ],
+            "tennis_racket_002002.jpg": [
+                "the handle is black.",
+                "tennis racket",
+                "handle"
+            ],
+            "tennis_racket_001578.jpg": [
+                "the handle is black.",
+                "tennis racket",
+                "handle/grip"
+            ],
+            "tennis_racket_002523.jpg": [
+                "the black plastic handle of a tennis racket.",
+                "tennis racket",
+                "handle/grip"
+            ],
+            "tennis_racket_001785.jpg": [
+                "a black and white tennis racket.",
+                "tennis racket",
+                "handle/grip"
+            ],
+            "tennis_racket_001354.jpg": [
+                "a black tape on the racket.",
+                "tennis racket",
+                "grip"
+            ],
+            "tennis_racket_003066.jpg": [
+                "the handle is black.",
+                "tennis racket",
+                "grip/handle"
+            ]
+        }
+    },
+    "hit": {
+        "baseball_bat": {
+            "baseball_bat_000595.jpg": [
+                "the tip of the bat is black.",
+                "baseball bat",
+                "barrel"
+            ],
+            "baseball_bat_000955.jpg": [
+                "a wooden baseball bat.",
+                "baseball bat",
+                "barrel"
+            ],
+            "baseball_bat_003129.jpg": [
+                "the end of the bat is black.",
+                "baseball bat",
+                "barrel"
+            ],
+            "baseball_bat_000452.jpg": [
+                "a blue baseball bat.",
+                "baseball bat",
+                "barrel"
+            ],
+            "baseball_bat_003712.jpg": [
+                "a wooden baseball bat.",
+                "baseball bat",
+                "barrel"
+            ],
+            "baseball_bat_002423.jpg": [
+                "a wooden baseball bat.",
+                "baseball bat",
+                "barrel"
+            ],
+            "baseball_bat_003051.jpg": [
+                "a blue and black baseball bat.",
+                "baseball bat",
+                "barrel"
+            ],
+            "baseball_bat_001925.jpg": [
+                "the ball of the bat.",
+                "baseball bat",
+                "barrel"
+            ],
+            "baseball_bat_000509.jpg": [
+                "a metal baseball bat.",
+                "baseball bat",
+                "barrel"
+            ],
+            "baseball_bat_001882.jpg": [
+                "red and black design on the bat.",
+                "bat",
+                "barrel"
+            ],
+            "baseball_bat_002079.jpg": [
+                "a blue baseball bat.",
+                "foam baseball bat",
+                "barrel"
+            ],
+            "baseball_bat_002545.jpg": [
+                "the bat is yellow.",
+                "bat",
+                "barrel"
+            ],
+            "baseball_bat_001276.jpg": [
+                "the tip of the bat is black.",
+                "baseball bat",
+                "barrel"
+            ],
+            "baseball_bat_001301.jpg": [
+                "the bat is black.",
+                "baseball bat",
+                "barrel"
+            ],
+            "baseball_bat_002547.jpg": [
+                "a black plastic baseball bat.",
+                "practice baseball bat",
+                "bat head"
+            ],
+            "baseball_bat_003563.jpg": [
+                "the tip of the bat is round.",
+                "baseball bat",
+                "barrel"
+            ],
+            "baseball_bat_000012.jpg": [
+                "a wooden baseball bat.",
+                "baseball bat",
+                "barrel"
+            ]
+        },
+        "axe": {
+            "axe_000961.jpg": [
+                "the blade of a knife.",
+                "hatchet",
+                "blade"
+            ],
+            "axe_000692.jpg": [
+                "the blade of a knife.",
+                "axe",
+                "blade"
+            ],
+            "axe_003531.jpg": [
+                "the blade of the knife.",
+                "hatchet",
+                "poll"
+            ],
+            "axe_000108.jpg": [
+                "the blade of the knife.",
+                "axe",
+                "blade"
+            ],
+            "axe_002343.jpg": [
+                "brown wood on knife.",
+                "hatchet",
+                "blade"
+            ],
+            "axe_001112.jpg": [
+                "the ball of the bat.",
+                "axe",
+                "blade"
+            ],
+            "axe_001552.jpg": [
+                "the knife is silver.",
+                "axe",
+                "blade"
+            ]
+        },
+        "hammer": {
+            "hammer_001006.jpg": [
+                "the head of a hammer.",
+                "claw hammer",
+                "face"
+            ],
+            "hammer_001353.jpg": [
+                "the tip of the hammer.",
+                "hammer",
+                "face"
+            ],
+            "hammer_002881.jpg": [
+                "a wooden object in the foreground.",
+                "hammer",
+                "face"
+            ],
+            "hammer_002705.jpg": [
+                "the top of the gold gavel.",
+                "gavel",
+                "head"
+            ],
+            "hammer_002502.jpg": [
+                "the tip of the hammer is sharp.",
+                "hammer",
+                "face"
+            ],
+            "hammer_002279.jpg": [
+                "a wooden hammer with a yellow handle.",
+                "hammer",
+                "head"
+            ],
+            "hammer_000323.jpg": [
+                "the head of a hammer.",
+                "hammer",
+                "face"
+            ],
+            "hammer_000482.jpg": [
+                "the head of the hammer.",
+                "sledgehammer",
+                "face"
+            ],
+            "hammer_000215.jpg": [
+                "the knife is made of metal.",
+                "hammer",
+                "face"
+            ]
+        },
+        "tennis_racket": {
+            "tennis_racket_003485.jpg": [
+                "yellow and black tennis racket.",
+                "tennis racket",
+                "strings"
+            ],
+            "tennis_racket_000964.jpg": [
+                "a white and blue tennis racket.",
+                "tennis racket",
+                "strings"
+            ],
+            "tennis_racket_000267.jpg": [
+                "the net is black.",
+                "tennis racket",
+                "strings"
+            ],
+            "tennis_racket_001468.jpg": [
+                "the word head on the racket.",
+                "tennis racket",
+                "strings"
+            ],
+            "tennis_racket_002268.jpg": [
+                "the net is black.",
+                "tennis racket",
+                "strings"
+            ],
+            "tennis_racket_002002.jpg": [
+                "the net is black.",
+                "tennis racket",
+                "strings"
+            ],
+            "tennis_racket_001578.jpg": [
+                "a tennis racket with a f design.",
+                "tennis racket",
+                "strings"
+            ],
+            "tennis_racket_002523.jpg": [
+                "a logo on a racket.",
+                "tennis racket",
+                "strings"
+            ],
+            "tennis_racket_001785.jpg": [
+                "a black and white tennis racket.",
+                "tennis racket",
+                "strings"
+            ],
+            "tennis_racket_001354.jpg": [
+                "a black netting.",
+                "tennis racket",
+                "strings"
+            ],
+            "tennis_racket_003066.jpg": [
+                "the net is black.",
+                "tennis racket",
+                "strings"
+            ]
+        }
+    },
+    "take_photo": {
+        "cell_phone": {
+            "cell_phone_003361.jpg": [
+                "the camera on the phone.",
+                "smartphone",
+                "Front Camera"
+            ],
+            "cell_phone_000396.jpg": [
+                "the camera on the phone.",
+                "smartphone",
+                "camera"
+            ],
+            "cell_phone_001694.jpg": [
+                "the camera on the phone.",
+                "Smartphone",
+                "Camera"
+            ],
+            "cell_phone_001260.jpg": [
+                "the camera lens on the phone.",
+                "smartphone",
+                "Camera"
+            ],
+            "cell_phone_000601.jpg": [
+                "the camera on the phone.",
+                "smartphone",
+                "Camera"
+            ],
+            "cell_phone_001134.jpg": [
+                "the camera on the phone.",
+                "smartphone",
+                "Front Camera"
+            ],
+            "cell_phone_000320.jpg": [
+                "the camera lens on the phone.",
+                "smartphone",
+                "Camera"
+            ],
+            "cell_phone_003507.jpg": [
+                "the camera lens on the phone.",
+                "smartphone",
+                "front camera"
+            ],
+            "cell_phone_001827.jpg": [
+                "the screen is black.",
+                "smartphone",
+                "Screen"
+            ]
+        },
+        "camera": {
+            "camera_002534.jpg": [
+                "the camera button on the camera.",
+                "Camera Body",
+                "Buttons and Dials"
+            ],
+            "camera_000542.jpg": [
+                "screen of a camera.",
+                "Camera Body",
+                "Buttons and Dials"
+            ],
+            "camera_002290.jpg": [
+                "the button on the camera.",
+                "camera",
+                "Shutter Button"
+            ],
+            "camera_001632.jpg": [
+                "the camera has a black button.",
+                "Camera",
+                "Shutter Button"
+            ],
+            "camera_002853.jpg": [
+                "the button on the camera.",
+                "camera",
+                "Shutter Button"
+            ],
+            "camera_000902.jpg": [
+                "a small screw on the camera.",
+                "camera",
+                "Shutter Button"
+            ],
+            "camera_001208.jpg": [
+                "the top of the camera.",
+                "Camera",
+                "Shutter Button"
+            ],
+            "camera_002694.jpg": [
+                "a small screw on the camera.",
+                "camera",
+                "Shutter Button"
+            ],
+            "camera_000121.jpg": [
+                "the camera has a dial.",
+                "Camera Body",
+                "Controls"
+            ],
+            "camera_003478.jpg": [
+                "black button on camera.",
+                "Camera",
+                "Shutter Button"
+            ],
+            "camera_002614.jpg": [
+                "the camera has a dial.",
+                "Camera",
+                "Shutter Button"
+            ],
+            "camera_002782.jpg": [
+                "the camera is a canon 5d.",
+                "camera",
+                "button"
+            ],
+            "camera_001110.jpg": [
+                "the button on the camera.",
+                "camera",
+                "button"
+            ],
+            "camera_002356.jpg": [
+                "the word kodak on the camera.",
+                "Kodak Instamatic X-15 camera",
+                "Shutter Button"
+            ],
+            "camera_001462.jpg": [
+                "the button on the camera.",
+                "camera",
+                "shutter release"
+            ],
+            "camera_001413.jpg": [
+                "the camera has a dial.",
+                "camera",
+                "Shutter Button"
+            ],
+            "camera_000677.jpg": [
+                "the camera is black in color.",
+                "camera",
+                "shutter button"
+            ],
+            "camera_001901.jpg": [
+                "the dial on the camera.",
+                "camera",
+                "Shutter Button"
+            ],
+            "camera_003061.jpg": [
+                "a bolt on the camera.",
+                "camera",
+                "Shutter Button"
+            ],
+            "camera_000033.jpg": [
+                "the camera has a black button.",
+                "camera",
+                "Shutter Button"
+            ],
+            "camera_000744.jpg": [
+                "part of a camera.",
+                "camera",
+                "shutter button"
+            ],
+            "camera_001931.jpg": [
+                "the black button on the camera.",
+                "Camera",
+                "Shutter Button"
+            ]
+        }
+    },
+    "catch": {
+        "soccer_ball": {
+            "soccer_ball_003060.jpg": [
+                "yellow netting on goal.",
+                "Goalpost",
+                "Net"
+            ],
+            "soccer_ball_003264.jpg": [
+                "purple and white soccer ball on the ground.",
+                "soccer ball",
+                "surface"
+            ],
+            "soccer_ball_000663.jpg": [
+                "the ball is white and black.",
+                "soccer ball",
+                "surface"
+            ],
+            "soccer_ball_003064.jpg": [
+                "a soccer ball on the grass.",
+                "soccer ball",
+                "surface texture"
+            ],
+            "soccer_ball_003354.jpg": [
+                "black and white soccer ball.",
+                "soccer ball",
+                "surface"
+            ],
+            "soccer_ball_002743.jpg": [
+                "black and white soccer ball.",
+                "soccer ball",
+                "panels"
+            ],
+            "soccer_ball_003436.jpg": [
+                "the blue circle on the ball.",
+                "soccer ball",
+                "panels"
+            ],
+            "soccer_ball_003670.jpg": [
+                "the ball is white and yellow.",
+                "soccer ball",
+                "outer cover"
+            ],
+            "soccer_ball_002098.jpg": [
+                "a dog with a ball.",
+                "dog",
+                "mouth"
+            ],
+            "soccer_ball_000587.jpg": [
+                "a yellow and black soccer ball.",
+                "soccer ball",
+                "surface"
+            ],
+            "soccer_ball_001943.jpg": [
+                "a black and white soccer ball.",
+                "soccer ball",
+                "surface"
+            ],
+            "soccer_ball_003187.jpg": [
+                "the ball is white in color.",
+                "soccer ball",
+                "surface"
+            ],
+            "soccer_ball_002111.jpg": [
+                "blue and white design on the soccer ball.",
+                "soccer ball",
+                "cover"
+            ],
+            "soccer_ball_003333.jpg": [
+                "a white and blue soccer ball.",
+                "soccer ball",
+                "outer cover"
+            ],
+            "soccer_ball_002817.jpg": [
+                "a red and white soccer ball.",
+                "soccer ball",
+                "surface"
+            ],
+            "soccer_ball_001245.jpg": [
+                "the ball is white in color.",
+                "soccer ball",
+                "surface material"
+            ],
+            "soccer_ball_001588.jpg": [
+                "black and white stripes on the soccer ball.",
+                "soccer ball",
+                "surface texture"
+            ]
+        },
+        "frisbee": {
+            "frisbee_002204.jpg": [
+                "the frisbee is blue.",
+                "Aerobie Pro",
+                "Outer Ring"
+            ],
+            "frisbee_003249.jpg": [
+                "the hole in the frisbee.",
+                "flying disc",
+                "rim"
+            ],
+            "frisbee_001077.jpg": [
+                "red circle on the frisbee.",
+                "flying disc",
+                "rim"
+            ],
+            "frisbee_001130.jpg": [
+                "a green frisbee.",
+                "frisbee",
+                "rim"
+            ],
+            "frisbee_002270.jpg": [
+                "a green and blue circle.",
+                "Chuckit! Zipflight",
+                "Outer Ring"
+            ],
+            "frisbee_002777.jpg": [
+                "the frisbee is orange and purple.",
+                "Aerobie Pro flying ring",
+                "Outer Ring"
+            ],
+            "frisbee_000156.jpg": [
+                "a blue frisbee.",
+                "frisbee",
+                "rim"
+            ],
+            "frisbee_001817.jpg": [
+                "the rim of the frisbee is red.",
+                "disc golf disc",
+                "rim"
+            ],
+            "frisbee_000560.jpg": [
+                "the frisbee is orange.",
+                "frisbee",
+                "rim"
+            ],
+            "frisbee_002172.jpg": [
+                "the frisbee is pink.",
+                "frisbee",
+                "rim"
+            ],
+            "frisbee_001314.jpg": [
+                "a green frisbee.",
+                "flying disc",
+                "rim"
+            ],
+            "frisbee_002852.jpg": [
+                "the frisbee is yellow.",
+                "flying disc",
+                "rim"
+            ],
+            "frisbee_000646.jpg": [
+                "a white frisbee.",
+                "Discraft UltraStar",
+                "Rim"
+            ],
+            "frisbee_000598.jpg": [
+                "white stripe on the frisbee.",
+                "flying disc",
+                "rim"
+            ],
+            "frisbee_003223.jpg": [
+                "a white frisbee.",
+                "Frisbee",
+                "Rim"
+            ],
+            "frisbee_001275.jpg": [
+                "the frisbee is yellow.",
+                "Retriever Tool",
+                "Frame"
+            ],
+            "frisbee_003023.jpg": [
+                "the word catch in red letters.",
+                "Activ Flyer",
+                "Edge"
+            ],
+            "frisbee_002500.jpg": [
+                "a round orange frisbee.",
+                "frisbee",
+                "rim"
+            ]
+        },
+        "rugby_ball": {
+            "rugby_ball_000399.jpg": [
+                "a white and blue ball.",
+                "rugby ball",
+                "outer cover"
+            ],
+            "rugby_ball_000170.jpg": [
+                "a brown football.",
+                "American football",
+                "outer covering"
+            ],
+            "rugby_ball_001900.jpg": [
+                "a brown football.",
+                "American football",
+                "outer covering"
+            ],
+            "rugby_ball_003589.jpg": [
+                "a football on the grass.",
+                "American football",
+                "outer covering"
+            ],
+            "rugby_ball_001342.jpg": [
+                "the ball is brown in color.",
+                "American football",
+                "outer covering"
+            ],
+            "rugby_ball_001183.jpg": [
+                "the ball is black.",
+                "rugby ball",
+                "outer cover"
+            ],
+            "rugby_ball_001647.jpg": [
+                "a white rugby ball.",
+                "rugby ball",
+                "outer cover"
+            ],
+            "rugby_ball_002080.jpg": [
+                "a white football.",
+                "American football",
+                "Outer Covering"
+            ],
+            "rugby_ball_003522.jpg": [
+                "the ball is brown in color.",
+                "American football",
+                "Outer Covering"
+            ],
+            "rugby_ball_000001.jpg": [
+                "a football shaped object.",
+                "football",
+                "outer leather cover"
+            ]
+        }
+    },
+    "hold": {
+        "baseball_bat": {
+            "baseball_bat_000595.jpg": [
+                "the tip of the bat is black.",
+                "baseball bat",
+                "handle"
+            ],
+            "baseball_bat_000955.jpg": [
+                "a wooden baseball bat.",
+                "baseball bat",
+                "handle"
+            ],
+            "baseball_bat_003129.jpg": [
+                "the handle is black.",
+                "baseball bat",
+                "handle"
+            ],
+            "baseball_bat_000452.jpg": [
+                "black plastic bat grip.",
+                "baseball bat",
+                "handle"
+            ],
+            "baseball_bat_003712.jpg": [
+                "a wooden baseball bat.",
+                "baseball bat",
+                "handle"
+            ],
+            "baseball_bat_002423.jpg": [
+                "a wooden baseball bat.",
+                "baseball bat",
+                "handle"
+            ],
+            "baseball_bat_003051.jpg": [
+                "black and silver baseball bat handle.",
+                "baseball bat",
+                "handle"
+            ],
+            "baseball_bat_001925.jpg": [
+                "a wooden baseball bat.",
+                "baseball bat",
+                "handle"
+            ],
+            "baseball_bat_000509.jpg": [
+                "the handle is black.",
+                "baseball bat",
+                "handle"
+            ],
+            "baseball_bat_001882.jpg": [
+                "red and black design on the bat.",
+                "bat",
+                "handle"
+            ],
+            "baseball_bat_002079.jpg": [
+                "a blue baseball bat.",
+                "foam baseball bat",
+                "handle"
+            ],
+            "baseball_bat_002545.jpg": [
+                "the handle is black.",
+                "bat",
+                "handle/grip"
+            ],
+            "baseball_bat_001276.jpg": [
+                "the tip of the bat is black.",
+                "baseball bat",
+                "handle"
+            ],
+            "baseball_bat_001301.jpg": [
+                "the bat is black.",
+                "baseball bat",
+                "handle"
+            ],
+            "baseball_bat_002547.jpg": [
+                "the bat is black.",
+                "practice baseball bat",
+                "handle"
+            ],
+            "baseball_bat_003563.jpg": [
+                "the base of the bat is made of wood.",
+                "baseball bat",
+                "handle"
+            ],
+            "baseball_bat_000012.jpg": [
+                "the wood is brown in color.",
+                "baseball bat",
+                "handle/grip"
+            ]
+        },
+        "skis": {
+            "skis_003605.jpg": [
+                "black metal ski pole.",
+                "bindings",
+                "bindings"
+            ],
+            "skis_000034.jpg": [
+                "the ski is blue.",
+                "ski",
+                "waist"
+            ],
+            "skis_002849.jpg": [
+                "the snowboard is orange in color.",
+                "skis",
+                "top sheet"
+            ],
+            "skis_003010.jpg": [
+                "a picture of a man on the ski.",
+                "skis",
+                "bindings area"
+            ],
+            "skis_002328.jpg": [
+                "a black strap on the ski.",
+                "skis",
+                "bindings"
+            ],
+            "skis_000776.jpg": [
+                "a snowboard boot binding.",
+                "Bindings",
+                "Toe Piece"
+            ],
+            "skis_001215.jpg": [
+                "part of a board.",
+                "skis",
+                "bindings"
+            ],
+            "skis_001357.jpg": [
+                "the black color of the ski.",
+                "skis",
+                "waist"
+            ],
+            "skis_001547.jpg": [
+                "the top of the ski is red.",
+                "ski",
+                "waist"
+            ],
+            "skis_003515.jpg": [
+                "the top of the ski is red.",
+                "ski",
+                "waist"
+            ],
+            "skis_003609.jpg": [
+                "the black plastic buckle.",
+                "bindings",
+                "skier's boots"
+            ],
+            "skis_002829.jpg": [
+                "the ski is blue.",
+                "ski",
+                "waist"
+            ]
+        },
+        "skateboard": {
+            "skateboard_000711.jpg": [
+                "the skateboard is green.",
+                "longboard",
+                "deck"
+            ],
+            "skateboard_002530.jpg": [
+                "part of a floor.",
+                "electric skateboard",
+                "deck"
+            ],
+            "skateboard_001152.jpg": [
+                "logo on the skateboard.",
+                "skateboard",
+                "deck"
+            ],
+            "skateboard_000183.jpg": [
+                "the skateboard is yellow.",
+                "skateboard",
+                "deck"
+            ],
+            "skateboard_003620.jpg": [
+                "a skateboard with a red and black design.",
+                "caster board",
+                "decks"
+            ],
+            "skateboard_002064.jpg": [
+                "the skateboard is purple.",
+                "skateboard",
+                "deck"
+            ],
+            "skateboard_000676.jpg": [
+                "a skateboard with a black top.",
+                "skateboard",
+                "deck"
+            ],
+            "skateboard_000797.jpg": [
+                "the skateboard is yellow.",
+                "skateboard",
+                "deck"
+            ],
+            "skateboard_001460.jpg": [
+                "the skateboard is blue.",
+                "skateboard",
+                "deck"
+            ],
+            "skateboard_002490.jpg": [
+                "a black skateboard.",
+                "skateboard",
+                "deck"
+            ],
+            "skateboard_001082.jpg": [
+                "a skateboard on the ground.",
+                "skateboard",
+                "deck"
+            ],
+            "skateboard_002387.jpg": [
+                "the skateboard is yellow in color.",
+                "skateboard",
+                "deck"
+            ],
+            "skateboard_002334.jpg": [
+                "a skateboard with a black top.",
+                "skateboard",
+                "deck"
+            ],
+            "skateboard_002867.jpg": [
+                "the top of the skateboard is flat.",
+                "skateboard",
+                "deck"
+            ],
+            "skateboard_003213.jpg": [
+                "a green skateboard with a pattern on it.",
+                "skateboard",
+                "deck"
+            ],
+            "skateboard_000671.jpg": [
+                "the skateboard is green.",
+                "longboard",
+                "deck"
+            ],
+            "skateboard_001232.jpg": [
+                "part of a board.",
+                "skateboard",
+                "deck"
+            ],
+            "skateboard_002488.jpg": [
+                "the top of the skateboard.",
+                "skateboard",
+                "deck"
+            ],
+            "skateboard_002668.jpg": [
+                "a black and white design on the bottom of the skateboard.",
+                "skateboard",
+                "deck"
+            ],
+            "skateboard_000355.jpg": [
+                "a colorful skateboard.",
+                "skateboard",
+                "deck"
+            ]
+        },
+        "book": {
+            "book_000030.jpg": [
+                "part of a book.",
+                "book",
+                "binding"
+            ],
+            "book_002538.jpg": [
+                "the pages are white.",
+                "book",
+                "spine"
+            ],
+            "book_001521.jpg": [
+                "the book is black in color.",
+                "dictionary",
+                "spine"
+            ],
+            "book_001594.jpg": [
+                "the cover is brown.",
+                "notebook",
+                "cover"
+            ],
+            "book_001019.jpg": [
+                "the book is open.",
+                "book",
+                "spine"
+            ],
+            "book_003304.jpg": [
+                "a book on a bench.",
+                "book",
+                "pages"
+            ],
+            "book_000799.jpg": [
+                "a wooden coffee table.",
+                "coffee table",
+                "tabletop"
+            ],
+            "book_003313.jpg": [
+                "the book is open.",
+                "Book",
+                "Cover"
+            ],
+            "book_002514.jpg": [
+                "the book is open.",
+                "Book",
+                "Pages"
+            ],
+            "book_000982.jpg": [
+                "the corner of the book.",
+                "book",
+                "spine"
+            ],
+            "book_000025.jpg": [
+                "the book is old.",
+                "book",
+                "spine"
+            ],
+            "book_001891.jpg": [
+                "the book is old.",
+                "cookbook",
+                "spine"
+            ],
+            "book_003044.jpg": [
+                "the camera is black in color.",
+                "camera",
+                "body"
+            ],
+            "book_001507.jpg": [
+                "the book is black.",
+                "Quran",
+                "cover"
+            ],
+            "book_002619.jpg": [
+                "the book is red.",
+                "book",
+                "spine"
+            ],
+            "book_001719.jpg": [
+                "the book is open.",
+                "book",
+                "spine"
+            ],
+            "book_002812.jpg": [
+                "the handle of the wooden rod.",
+                "gavel",
+                "handle"
+            ],
+            "book_001195.jpg": [
+                "a black book cover.",
+                "Quran",
+                "Cover"
+            ],
+            "book_000769.jpg": [
+                "the corner of the book.",
+                "Books",
+                "Cover"
+            ]
+        },
+        "axe": {
+            "axe_000961.jpg": [
+                "the handle is blue.",
+                "hatchet",
+                "handle"
+            ],
+            "axe_000692.jpg": [
+                "red and black knife handle.",
+                "axe",
+                "grip"
+            ],
+            "axe_003531.jpg": [
+                "the handle is black.",
+                "hatchet",
+                "handle"
+            ],
+            "axe_000108.jpg": [
+                "the black handle of the knife.",
+                "Handle",
+                "Grip"
+            ],
+            "axe_002343.jpg": [
+                "the handle is brown.",
+                "Handle",
+                "Grip"
+            ],
+            "axe_001112.jpg": [
+                "the handle is black and orange.",
+                "axe",
+                "grip"
+            ],
+            "axe_001552.jpg": [
+                "the handle is red in color.",
+                "Handle",
+                "Grip"
+            ]
+        },
+        "wine_glass": {
+            "wine_glass_002399.jpg": [
+                "stem of a glass.",
+                "glass of red wine",
+                "stem"
+            ],
+            "wine_glass_002472.jpg": [
+                "the stem of a wine glass.",
+                "wine glass",
+                "stem"
+            ],
+            "wine_glass_002282.jpg": [
+                "stem of wine glass.",
+                "glass",
+                "stem"
+            ],
+            "wine_glass_002765.jpg": [
+                "the wine glass is empty.",
+                "wine glass",
+                "stem"
+            ],
+            "wine_glass_001495.jpg": [
+                "base of wine glass.",
+                "Glass",
+                "Stem"
+            ],
+            "wine_glass_003596.jpg": [
+                "stem of wine glass.",
+                "Glass",
+                "stem"
+            ],
+            "wine_glass_002566.jpg": [
+                "the base of the wine glass.",
+                "wine glass",
+                "stem"
+            ],
+            "wine_glass_001595.jpg": [
+                "base of wine glass.",
+                "wine glass",
+                "stem"
+            ],
+            "wine_glass_000750.jpg": [
+                "stem of wine glass.",
+                "wine glass",
+                "stem"
+            ],
+            "wine_glass_001721.jpg": [
+                "the base of the glass.",
+                "wine glass",
+                "stem"
+            ],
+            "wine_glass_002374.jpg": [
+                "base of wine glass.",
+                "wine glass",
+                "stem"
+            ],
+            "wine_glass_000665.jpg": [
+                "the stem of a glass.",
+                "champagne flute",
+                "stem"
+            ],
+            "wine_glass_003343.jpg": [
+                "stem of a wine glass.",
+                "wine glass",
+                "stem"
+            ],
+            "wine_glass_000500.jpg": [
+                "base of wine glass.",
+                "wine glass",
+                "stem"
+            ],
+            "wine_glass_001415.jpg": [
+                "the stem of a glass.",
+                "Glass",
+                "Stem"
+            ],
+            "wine_glass_000606.jpg": [
+                "part of a glass.",
+                "wine glass",
+                "stem"
+            ],
+            "wine_glass_003375.jpg": [
+                "the stem of a wine glass.",
+                "wine glass",
+                "stem"
+            ],
+            "wine_glass_001657.jpg": [
+                "the stem of a wine glass.",
+                "wine glass",
+                "stem"
+            ],
+            "wine_glass_001599.jpg": [
+                "the stem of a glass.",
+                "glass",
+                "stem"
+            ],
+            "wine_glass_001774.jpg": [
+                "the stem of a wine glass.",
+                "wine glass",
+                "stem"
+            ],
+            "wine_glass_000186.jpg": [
+                "base of wine glass.",
+                "wine glass",
+                "stem"
+            ],
+            "wine_glass_001304.jpg": [
+                "base of wine glass.",
+                "wine glass",
+                "stem"
+            ],
+            "wine_glass_002271.jpg": [
+                "part of a glass.",
+                "wine glass",
+                "stem"
+            ],
+            "wine_glass_003389.jpg": [
+                "stem of wine glass.",
+                "wine glass",
+                "stem"
+            ],
+            "wine_glass_002922.jpg": [
+                "the stem of a wine glass.",
+                "wine glass",
+                "stem"
+            ]
+        },
+        "knife": {
+            "knife_002078.jpg": [
+                "black handle of a knife.",
+                "Knife",
+                "handle"
+            ],
+            "knife_001802.jpg": [
+                "a knife with a black handle.",
+                "Knife",
+                "Handle"
+            ],
+            "knife_003676.jpg": [
+                "knife on a cutting board.",
+                "Knife",
+                "Handle"
+            ],
+            "knife_002592.jpg": [
+                "the handle is black.",
+                "knife",
+                "handle"
+            ],
+            "knife_001072.jpg": [
+                "the handle is brown.",
+                "knife",
+                "handle"
+            ],
+            "knife_002666.jpg": [
+                "black handle of a knife.",
+                "knife",
+                "handle"
+            ],
+            "knife_001124.jpg": [
+                "the knife has a wooden handle.",
+                "knife",
+                "handle"
+            ],
+            "knife_002682.jpg": [
+                "black handle on knife.",
+                "knife",
+                "handle"
+            ],
+            "knife_003240.jpg": [
+                "the knife is brown.",
+                "Knife",
+                "Handle"
+            ],
+            "knife_002731.jpg": [
+                "a slice of apple.",
+                "apple",
+                "flesh"
+            ],
+            "knife_002720.jpg": [
+                "the handle of the knife.",
+                "knife",
+                "handle"
+            ],
+            "knife_000543.jpg": [
+                "the handle is black in color.",
+                "knife",
+                "handle"
+            ],
+            "knife_000029.jpg": [
+                "the top bun of the sandwich.",
+                "sandwich",
+                "bread roll"
+            ],
+            "knife_000699.jpg": [
+                "the handle of the knife.",
+                "Knife",
+                "Handle"
+            ],
+            "knife_000894.jpg": [
+                "a knife with a silver handle.",
+                "knife",
+                "handle"
+            ],
+            "knife_000695.jpg": [
+                "the knife is green.",
+                "Knife",
+                "Handle"
+            ],
+            "knife_001875.jpg": [
+                "the handle of the sword.",
+                "sword",
+                "grip"
+            ],
+            "knife_000086.jpg": [
+                "a knife with a black handle.",
+                "knife",
+                "handle"
+            ],
+            "knife_000510.jpg": [
+                "black handle on knife.",
+                "kitchen knife",
+                "handle"
+            ],
+            "knife_000942.jpg": [
+                "the handle of the knife.",
+                "knife",
+                "handle"
+            ],
+            "knife_001987.jpg": [
+                "a slice of bread.",
+                "bread",
+                "crumb"
+            ],
+            "knife_000708.jpg": [
+                "a slice of bread.",
+                "bread",
+                "slices"
+            ],
+            "knife_001442.jpg": [
+                "a knife on a table.",
+                "knife",
+                "handle"
+            ],
+            "knife_002741.jpg": [
+                "the apple is red.",
+                "apple",
+                "flesh"
+            ],
+            "knife_002094.jpg": [
+                "a knife on a cutting board.",
+                "knife",
+                "handle"
+            ],
+            "knife_002582.jpg": [
+                "the handle of the knife.",
+                "knife",
+                "handle"
+            ],
+            "knife_001749.jpg": [
+                "knife has a wooden handle.",
+                "knife",
+                "handle"
+            ],
+            "knife_001815.jpg": [
+                "the handle is black.",
+                "knife",
+                "handle"
+            ],
+            "knife_000953.jpg": [
+                "black handle of a knife.",
+                "knife",
+                "handle"
+            ],
+            "knife_002669.jpg": [
+                "the handle is made of wood.",
+                "folding knife",
+                "handle"
+            ],
+            "knife_001346.jpg": [
+                "a knife on a cutting board.",
+                "knife",
+                "handle"
+            ],
+            "knife_000477.jpg": [
+                "the handle of the knife.",
+                "Knife",
+                "Handle"
+            ],
+            "knife_000879.jpg": [
+                "a knife with a black handle.",
+                "knife",
+                "handle"
+            ],
+            "knife_000807.jpg": [
+                "black handle on knife.",
+                "kitchen knife",
+                "handle"
+            ],
+            "knife_001017.jpg": [
+                "the handle is brown.",
+                "folding knife",
+                "handle"
+            ]
+        },
+        "surfboard": {
+            "surfboard_002631.jpg": [
+                "a surfboard on the sand.",
+                "surfboard",
+                "deck"
+            ],
+            "surfboard_000658.jpg": [
+                "the surfboard is blue.",
+                "surfboard",
+                "deck"
+            ],
+            "surfboard_000010.jpg": [
+                "a blue and white surfboard.",
+                "wakesurf board",
+                "deck"
+            ],
+            "surfboard_000221.jpg": [
+                "a surfboard on the beach.",
+                "surfboard",
+                "deck"
+            ],
+            "surfboard_002878.jpg": [
+                "the bag is black.",
+                "wakesurf board cover",
+                "main body"
+            ],
+            "surfboard_003369.jpg": [
+                "part of a board.",
+                "surfboard",
+                "rails"
+            ],
+            "surfboard_002422.jpg": [
+                "a white surfboard with a design on it.",
+                "surfboard",
+                "deck"
+            ],
+            "surfboard_003300.jpg": [
+                "the surfboard is green.",
+                "surfboard",
+                "deck"
+            ]
+        },
+        "golf_clubs": {
+            "golf_clubs_003502.jpg": [
+                "the handle is white.",
+                "golf putter",
+                "grip"
+            ],
+            "golf_clubs_001992.jpg": [
+                "the handle is black.",
+                "golf putter",
+                "grip"
+            ],
+            "golf_clubs_003641.jpg": [
+                "the handle is black.",
+                "golf putter",
+                "grip"
+            ],
+            "golf_clubs_001094.jpg": [
+                "the handle is brown.",
+                "golf putter",
+                "grip"
+            ],
+            "golf_clubs_000045.jpg": [
+                "the handle is black.",
+                "golf putter",
+                "grip"
+            ],
+            "golf_clubs_003141.jpg": [
+                "the handle is black in color.",
+                "Golf Club",
+                "Handle"
+            ],
+            "golf_clubs_000638.jpg": [
+                "the handle of the golf club.",
+                "putter",
+                "grip"
+            ],
+            "golf_clubs_003588.jpg": [
+                "the handle is black.",
+                "golf putter",
+                "grip"
+            ]
+        },
+        "fork": {
+            "fork_001769.jpg": [
+                "a black and silver spoon.",
+                "fork",
+                "handle"
+            ],
+            "fork_000804.jpg": [
+                "the background is white.",
+                "fork",
+                "handle"
+            ],
+            "fork_000653.jpg": [
+                "the table cloth is black.",
+                "fork",
+                "handle"
+            ],
+            "fork_000297.jpg": [
+                "part of a bread.",
+                "bagel sandwich",
+                "bagel"
+            ],
+            "fork_000112.jpg": [
+                "the tip of the fork.",
+                "fork",
+                "handle"
+            ],
+            "fork_001691.jpg": [
+                "the table is white.",
+                "fork",
+                "handle"
+            ],
+            "fork_001585.jpg": [
+                "the handle of a fork.",
+                "fork",
+                "handle"
+            ],
+            "fork_002360.jpg": [
+                "the tip of the fork is sharp.",
+                "fork",
+                "handle"
+            ],
+            "fork_000840.jpg": [
+                "a piece of ham on a plate.",
+                "Utensil",
+                "fork"
+            ],
+            "fork_000095.jpg": [
+                "part of a fork.",
+                "fork",
+                "handle"
+            ],
+            "fork_000849.jpg": [
+                "the topmost fork on the right.",
+                "fork",
+                "handle"
+            ],
+            "fork_002764.jpg": [
+                "the tip of the fork.",
+                "fork",
+                "handle"
+            ],
+            "fork_003000.jpg": [
+                "the handle is black.",
+                "sharpening steel",
+                "handle"
+            ],
+            "fork_002683.jpg": [
+                "-",
+                "fork",
+                "handle"
+            ]
+        },
+        "bowl": {
+            "bowl_000546.jpg": [
+                "a white bowl on a table.",
+                "mixing bowl",
+                "rim"
+            ],
+            "bowl_000424.jpg": [
+                "the rim of the bowl is white.",
+                "bowl",
+                "rim"
+            ],
+            "bowl_000134.jpg": [
+                "a hand holding a bowl.",
+                "Hand",
+                "holding part"
+            ],
+            "bowl_002825.jpg": [
+                "the rim of the bowl.",
+                "bowl",
+                "rim"
+            ],
+            "bowl_002077.jpg": [
+                "a small brown nut.",
+                "almond",
+                "nut"
+            ],
+            "bowl_001940.jpg": [
+                "a wooden chopstick.",
+                "Chopsticks",
+                "entirety"
+            ],
+            "bowl_001170.jpg": [
+                "the rim of the bowl is green.",
+                "bowl",
+                "rim"
+            ],
+            "bowl_000091.jpg": [
+                "the bowl is white.",
+                "bowl",
+                "base"
+            ]
+        },
+        "cup": {
+            "cup_003621.jpg": [
+                "the handle of a coffee mug.",
+                "mug",
+                "handle"
+            ],
+            "cup_003729.jpg": [
+                "green design on cup.",
+                "Cup",
+                "Handle"
+            ],
+            "cup_001157.jpg": [
+                "handle of a coffee cup.",
+                "Cup",
+                "Handle"
+            ],
+            "cup_003613.jpg": [
+                "handle of a cup.",
+                "Cup",
+                "Handle"
+            ],
+            "cup_003209.jpg": [
+                "a cup of tea.",
+                "Cup",
+                "main container"
+            ],
+            "cup_001864.jpg": [
+                "the handle of the coffee cup.",
+                "coffee cup",
+                "handle"
+            ],
+            "cup_002410.jpg": [
+                "the handle of a tea cup.",
+                "Teacup",
+                "Handle"
+            ],
+            "cup_002062.jpg": [
+                "handle of a coffee cup.",
+                "coffee cup",
+                "handle"
+            ],
+            "cup_000574.jpg": [
+                "the handle of a coffee cup.",
+                "Cup",
+                "Handle"
+            ],
+            "cup_002969.jpg": [
+                "the handle of a mug.",
+                "Glass Mug",
+                "Handle"
+            ],
+            "cup_002518.jpg": [
+                "handle of white cup.",
+                "Cup",
+                "handle"
+            ],
+            "cup_003269.jpg": [
+                "handle of the cup.",
+                "coffee mug",
+                "handle"
+            ],
+            "cup_000447.jpg": [
+                "handle of the cup.",
+                "Cup",
+                "Handle"
+            ],
+            "cup_002043.jpg": [
+                "the handle of a coffee cup.",
+                "cup",
+                "handle"
+            ],
+            "cup_001668.jpg": [
+                "the handle of the cup.",
+                "Cup",
+                "Handle"
+            ],
+            "cup_000231.jpg": [
+                "handle of the cup.",
+                "Cup of Coffee",
+                "Handle"
+            ],
+            "cup_002794.jpg": [
+                "handle of a coffee cup.",
+                "coffee cup",
+                "handle"
+            ],
+            "cup_000508.jpg": [
+                "handle on the cup.",
+                "coffee mug",
+                "handle"
+            ],
+            "cup_003518.jpg": [
+                "handle of a mug.",
+                "Cup and Saucer",
+                "Cup"
+            ],
+            "cup_001535.jpg": [
+                "a white coffee cup.",
+                "cup of coffee",
+                "handle"
+            ],
+            "cup_002554.jpg": [
+                "a silver coffee dispenser.",
+                "espresso machine",
+                "portafilter"
+            ],
+            "cup_003644.jpg": [
+                "the cup is white.",
+                "Cup of Coffee",
+                "Cup"
+            ],
+            "cup_002760.jpg": [
+                "handle of a cup.",
+                "cup",
+                "handle"
+            ]
+        },
+        "frisbee": {
+            "frisbee_002204.jpg": [
+                "the frisbee is blue.",
+                "Aerobie Pro",
+                "Inner Edge"
+            ],
+            "frisbee_003249.jpg": [
+                "a colorful circle on a frisbee.",
+                "flying disc",
+                "outer rim"
+            ],
+            "frisbee_001077.jpg": [
+                "a white frisbee.",
+                "flying disc",
+                "rim"
+            ],
+            "frisbee_001130.jpg": [
+                "a green frisbee.",
+                "frisbee",
+                "rim"
+            ],
+            "frisbee_002270.jpg": [
+                "a green and blue circle.",
+                "Chuckit! Zipflight frisbee",
+                "Outer Ring"
+            ],
+            "frisbee_002777.jpg": [
+                "the frisbee is orange.",
+                "Aerobie Pro flying ring",
+                "Inner Edge"
+            ],
+            "frisbee_000156.jpg": [
+                "the blue circle on the frisbee.",
+                "frisbee",
+                "rim"
+            ],
+            "frisbee_001817.jpg": [
+                "the rim of the frisbee is black.",
+                "disc golf disc",
+                "rim"
+            ],
+            "frisbee_000560.jpg": [
+                "the frisbee is orange.",
+                "flying disc",
+                "rim"
+            ],
+            "frisbee_002172.jpg": [
+                "the frisbee is pink.",
+                "frisbee",
+                "rim"
+            ],
+            "frisbee_001314.jpg": [
+                "a green frisbee.",
+                "flying disc",
+                "rim"
+            ],
+            "frisbee_002852.jpg": [
+                "the circle is black.",
+                "frisbee",
+                "rim"
+            ],
+            "frisbee_000646.jpg": [
+                "a white frisbee.",
+                "Discraft UltraStar",
+                "Rim"
+            ],
+            "frisbee_000598.jpg": [
+                "white stripe on frisbee.",
+                "flying disc",
+                "rim"
+            ],
+            "frisbee_003223.jpg": [
+                "a white frisbee.",
+                "Frisbee",
+                "Rim"
+            ],
+            "frisbee_001275.jpg": [
+                "the white cord on the frisbee.",
+                "Retriever Tool",
+                "rope"
+            ],
+            "frisbee_003023.jpg": [
+                "the circle is blue.",
+                "Activ Flyer",
+                "Inner Edge"
+            ],
+            "frisbee_002500.jpg": [
+                "orange frisbee with blue and white design.",
+                "frisbee",
+                "rim"
+            ]
+        },
+        "suitcase": {
+            "suitcase_003687.jpg": [
+                "the handle of a suitcase.",
+                "suitcase",
+                "side handles"
+            ],
+            "suitcase_003331.jpg": [
+                "handle on the suitcase.",
+                "suitcase",
+                "side handle"
+            ],
+            "suitcase_003339.jpg": [
+                "the handle is blue.",
+                "backpack",
+                "top handle"
+            ],
+            "suitcase_001236.jpg": [
+                "brown handle on suitcase.",
+                "suitcase",
+                "side handles"
+            ],
+            "suitcase_003156.jpg": [
+                "the handle is blue.",
+                "suitcase",
+                "handle"
+            ],
+            "suitcase_002998.jpg": [
+                "handle on the suitcase.",
+                "suitcase",
+                "side handle"
+            ],
+            "suitcase_002493.jpg": [
+                "the handle of a suitcase.",
+                "suitcase",
+                "handle"
+            ],
+            "suitcase_003418.jpg": [
+                "handle on the suitcase.",
+                "suitcase",
+                "side handle"
+            ],
+            "suitcase_000529.jpg": [
+                "orange handle on the suitcase.",
+                "suitcase",
+                "side handle"
+            ]
+        },
+        "scissors": {
+            "scissors_003229.jpg": [
+                "the scissors are black.",
+                "hair cutting scissors",
+                "finger rings"
+            ],
+            "scissors_000786.jpg": [
+                "the scissors are orange.",
+                "scissors",
+                "handles"
+            ],
+            "scissors_001418.jpg": [
+                "the scissors have a hole in the middle.",
+                "scissors",
+                "handles"
+            ],
+            "scissors_001038.jpg": [
+                "the scissors have a white handle.",
+                "pinking shears",
+                "handles"
+            ],
+            "scissors_000374.jpg": [
+                "red handles on scissors.",
+                "scissors",
+                "handles"
+            ],
+            "scissors_003190.jpg": [
+                "the scissors are silver.",
+                "embroidery scissors",
+                "handles"
+            ],
+            "scissors_003115.jpg": [
+                "a bolt on the scissors.",
+                "scissors",
+                "handle"
+            ],
+            "scissors_001937.jpg": [
+                "a screw on the scissors.",
+                "scissors",
+                "handles"
+            ],
+            "scissors_000545.jpg": [
+                "screw on the scissors.",
+                "scissors",
+                "handles"
+            ],
+            "scissors_002479.jpg": [
+                "the screw on the scissors.",
+                "scissors",
+                "handles"
+            ],
+            "scissors_001512.jpg": [
+                "red handle on scissors.",
+                "scissors",
+                "handles"
+            ],
+            "scissors_002970.jpg": [
+                "the scissors have a silver ring.",
+                "scissors",
+                "handles"
+            ],
+            "scissors_002226.jpg": [
+                "the finger hole of the scissors.",
+                "scissors",
+                "handles"
+            ]
+        },
+        "hammer": {
+            "hammer_001006.jpg": [
+                "the handle of the hammer.",
+                "claw hammer",
+                "handle"
+            ],
+            "hammer_001353.jpg": [
+                "the handle is orange.",
+                "hammer",
+                "handle"
+            ],
+            "hammer_002881.jpg": [
+                "the handle is brown.",
+                "hammer",
+                "handle"
+            ],
+            "hammer_002705.jpg": [
+                "the handle is golden.",
+                "gavel",
+                "handle"
+            ],
+            "hammer_002502.jpg": [
+                "a wooden handle on a hammer.",
+                "hammer",
+                "handle"
+            ],
+            "hammer_002279.jpg": [
+                "the handle is yellow.",
+                "hammer",
+                "handle"
+            ],
+            "hammer_000323.jpg": [
+                "the handle is black.",
+                "hammer",
+                "handle"
+            ],
+            "hammer_000482.jpg": [
+                "the handle of a knife.",
+                "sledgehammer",
+                "handle"
+            ],
+            "hammer_000215.jpg": [
+                "the handle of the knife.",
+                "hammer",
+                "handle"
+            ]
+        },
+        "toothbrush": {
+            "toothbrush_003057.jpg": [
+                "the handle is black.",
+                "toothbrush",
+                "handle"
+            ],
+            "toothbrush_002729.jpg": [
+                "the handle is made of wood.",
+                "bamboo toothbrush",
+                "handle"
+            ],
+            "toothbrush_003341.jpg": [
+                "a toothbrush in a box.",
+                "toothbrush",
+                "handle"
+            ],
+            "toothbrush_000176.jpg": [
+                "the handle is silver.",
+                "toothbrush",
+                "handle"
+            ],
+            "toothbrush_000575.jpg": [
+                "the bristles are blue.",
+                "bamboo toothbrush",
+                "handle"
+            ],
+            "toothbrush_002109.jpg": [
+                "a toothbrush with a green handle.",
+                "toothbrush",
+                "handle"
+            ],
+            "toothbrush_001764.jpg": [
+                "the handle of the toothbrush.",
+                "electric toothbrush",
+                "handle"
+            ],
+            "toothbrush_001991.jpg": [
+                "a toothbrush with a blue handle.",
+                "electric toothbrush",
+                "handle"
+            ],
+            "toothbrush_000427.jpg": [
+                "a blue and white toothbrush.",
+                "toothbrush",
+                "handle"
+            ],
+            "toothbrush_001596.jpg": [
+                "the handle is orange.",
+                "toothbrush",
+                "handle"
+            ],
+            "toothbrush_002589.jpg": [
+                "a white toothbrush with bristles.",
+                "toothbrush",
+                "handle"
+            ],
+            "toothbrush_000097.jpg": [
+                "the green handle of the toothbrush.",
+                "toothbrush",
+                "handle"
+            ],
+            "toothbrush_002601.jpg": [
+                "the wooden handle of a toothbrush.",
+                "toothbrush",
+                "handle"
+            ],
+            "toothbrush_002342.jpg": [
+                "white stripe on toothbrush.",
+                "toothbrush",
+                "handle"
+            ]
+        },
+        "badminton_racket": {
+            "badminton_racket_000882.jpg": [
+                "black handle of tennis racket.",
+                "badminton racket",
+                "handle/grip"
+            ],
+            "badminton_racket_000023.jpg": [
+                "black handle on racket.",
+                "badminton racket",
+                "handle/grip"
+            ],
+            "badminton_racket_000004.jpg": [
+                "the handle is black.",
+                "badminton racket",
+                "handle/grip"
+            ],
+            "badminton_racket_001989.jpg": [
+                "black handle on racket.",
+                "badminton racket",
+                "handle/grip"
+            ],
+            "badminton_racket_002255.jpg": [
+                "black handle on racket.",
+                "badminton racket",
+                "handle/grip"
+            ],
+            "badminton_racket_003649.jpg": [
+                "the handle is black.",
+                "badminton racket",
+                "handle/grip"
+            ]
+        },
+        "tennis_racket": {
+            "tennis_racket_003485.jpg": [
+                "the handle of the tennis racket.",
+                "tennis racket",
+                "grip/handle"
+            ],
+            "tennis_racket_000964.jpg": [
+                "the handle is black.",
+                "tennis racket",
+                "handle/grip"
+            ],
+            "tennis_racket_000267.jpg": [
+                "the handle of the tennis racket.",
+                "tennis racket",
+                "grip/handle"
+            ],
+            "tennis_racket_001468.jpg": [
+                "the handle is white.",
+                "tennis racket",
+                "grip"
+            ],
+            "tennis_racket_002268.jpg": [
+                "the handle is white.",
+                "tennis racket",
+                "handle/grip"
+            ],
+            "tennis_racket_002002.jpg": [
+                "the handle is black.",
+                "tennis racket",
+                "grip"
+            ],
+            "tennis_racket_001578.jpg": [
+                "the handle of a tennis racket.",
+                "tennis racket",
+                "handle/grip"
+            ],
+            "tennis_racket_002523.jpg": [
+                "the handle is black.",
+                "tennis racket",
+                "handle/grip"
+            ],
+            "tennis_racket_001785.jpg": [
+                "a black and white tennis racket.",
+                "tennis racket",
+                "handle/grip"
+            ],
+            "tennis_racket_001354.jpg": [
+                "a black tape on the racket.",
+                "tennis racket",
+                "grip"
+            ],
+            "tennis_racket_003066.jpg": [
+                "the handle is black.",
+                "tennis racket",
+                "grip/handle"
+            ]
+        },
+        "bottle": {
+            "bottle_000625.jpg": [
+                "the bottle is brown in color.",
+                "Beer Bottle",
+                "Body"
+            ],
+            "bottle_002805.jpg": [
+                "the bottle is made of glass.",
+                "bottle",
+                "body"
+            ],
+            "bottle_001064.jpg": [
+                "a bottle of water.",
+                "plastic water bottle",
+                "body"
+            ],
+            "bottle_002780.jpg": [
+                "the cap is purple.",
+                "pacifier",
+                "handle"
+            ],
+            "bottle_002895.jpg": [
+                "part of a bottle.",
+                "bottle",
+                "main glass container"
+            ],
+            "bottle_000830.jpg": [
+                "a bottle of beer.",
+                "beer bottle",
+                "body"
+            ],
+            "bottle_000341.jpg": [
+                "a bottle of beer.",
+                "bottle",
+                "body"
+            ],
+            "bottle_001033.jpg": [
+                "green top of bottle.",
+                "decorative bottle",
+                "Bottle Neck"
+            ],
+            "bottle_002193.jpg": [
+                "the stem of a wine bottle.",
+                "wine bottle",
+                "neck"
+            ],
+            "bottle_001115.jpg": [
+                "part of a bottle.",
+                "Bottle",
+                "Body"
+            ],
+            "bottle_001167.jpg": [
+                "a bottle of green liquid.",
+                "bottle",
+                "body"
+            ],
+            "bottle_002218.jpg": [
+                "the bottle is made of glass.",
+                "Bottle",
+                "Bottle"
+            ],
+            "bottle_001569.jpg": [
+                "the top of the bottle.",
+                "Bottle",
+                "Narrow neck"
+            ],
+            "bottle_002103.jpg": [
+                "part of a bottle.",
+                "Coca-Cola bottle",
+                "Body"
+            ],
+            "bottle_001227.jpg": [
+                "part of a bottle.",
+                "bottle",
+                "body"
+            ],
+            "bottle_003259.jpg": [
+                "part of a bottle.",
+                "Coca-Cola bottle",
+                "Body"
+            ]
+        },
+        "snowboard": {
+            "snowboard_001335.jpg": [
+                "part of a board.",
+                "snowboard",
+                "bindings area"
+            ],
+            "snowboard_002024.jpg": [
+                "the top of the snowboard is black.",
+                "snowboard",
+                "bindings area"
+            ],
+            "snowboard_001704.jpg": [
+                "a white logo on the snowboard.",
+                "snowboard",
+                "bindings area"
+            ],
+            "snowboard_001325.jpg": [
+                "a black strap on a shoe.",
+                "Bindings",
+                "Attachments"
+            ],
+            "snowboard_001840.jpg": [
+                "a black strap on a snowboard.",
+                "snowboard",
+                "bindings"
+            ],
+            "snowboard_000513.jpg": [
+                "-",
+                "snowboard",
+                "bindings"
+            ]
+        }
+    },
+    "type_on": {
+        "laptop": {
+            "laptop_000818.jpg": [
+                "part of a keyboard.",
+                "laptop",
+                "keyboard"
+            ],
+            "laptop_000550.jpg": [
+                "the keyboard is black.",
+                "laptop",
+                "keyboard"
+            ],
+            "laptop_000872.jpg": [
+                "the keyboard is black.",
+                "laptop",
+                "keyboard"
+            ],
+            "laptop_001356.jpg": [
+                "the keyboard is black.",
+                "laptop",
+                "keyboard"
+            ],
+            "laptop_001173.jpg": [
+                "the keyboard is black.",
+                "laptop",
+                "keyboard"
+            ],
+            "laptop_001401.jpg": [
+                "the keyboard is black.",
+                "laptop",
+                "keyboard"
+            ],
+            "laptop_001435.jpg": [
+                "the keyboard is black.",
+                "laptop",
+                "keyboard"
+            ],
+            "laptop_000579.jpg": [
+                "the laptop is black.",
+                "laptop",
+                "keyboard"
+            ],
+            "laptop_000585.jpg": [
+                "the enter key on the laptop.",
+                "laptop",
+                "keyboard"
+            ],
+            "laptop_003446.jpg": [
+                "part of a keyboard.",
+                "laptop",
+                "keyboard"
+            ],
+            "laptop_001206.jpg": [
+                "a black key on a laptop.",
+                "laptop",
+                "keyboard"
+            ],
+            "laptop_001423.jpg": [
+                "black keys on keyboard.",
+                "laptop",
+                "keyboard"
+            ]
+        },
+        "keyboard": {
+            "keyboard_002468.jpg": [
+                "the keyboard is white.",
+                "computer",
+                "keyboard"
+            ],
+            "keyboard_003072.jpg": [
+                "a key on a keyboard.",
+                "Keys",
+                "Keycaps"
+            ],
+            "keyboard_003005.jpg": [
+                "the space bar on the keyboard.",
+                "Keyboard",
+                "Keys"
+            ],
+            "keyboard_003632.jpg": [
+                "the space bar on the keyboard.",
+                "keyboard",
+                "keys"
+            ],
+            "keyboard_000256.jpg": [
+                "the space bar on the keyboard.",
+                "computer keyboard",
+                "keys"
+            ],
+            "keyboard_001256.jpg": [
+                "the space bar on the keyboard.",
+                "keyboard",
+                "keys"
+            ],
+            "keyboard_001184.jpg": [
+                "the space bar on the keyboard.",
+                "mechanical keyboard",
+                "keycaps"
+            ],
+            "keyboard_002870.jpg": [
+                "the enter key on the keyboard.",
+                "keyboard",
+                "keys"
+            ],
+            "keyboard_002655.jpg": [
+                "the keyboard is black in color.",
+                "laptop",
+                "keyboard"
+            ],
+            "keyboard_002979.jpg": [
+                "key on the keyboard.",
+                "Keyboard",
+                "keys"
+            ],
+            "keyboard_002480.jpg": [
+                "the space bar on the keyboard.",
+                "keyboard",
+                "keys"
+            ],
+            "keyboard_000219.jpg": [
+                "the space bar on the keyboard.",
+                "wireless keyboard",
+                "keys"
+            ],
+            "keyboard_000198.jpg": [
+                "the blue keys on the keyboard.",
+                "computer keyboard",
+                "keys"
+            ],
+            "keyboard_001150.jpg": [
+                "a key on a keyboard.",
+                "computer keyboard",
+                "keys"
+            ],
+            "keyboard_000998.jpg": [
+                "a key on a keyboard.",
+                "Computer Keyboard",
+                "Keys"
+            ],
+            "keyboard_003667.jpg": [
+                "the space bar on the keyboard.",
+                "computer keyboard",
+                "keys"
+            ],
+            "keyboard_000439.jpg": [
+                "a key on a keyboard.",
+                "wireless keyboard",
+                "keys"
+            ]
+        }
+    },
+    "carry": {
+        "skis": {
+            "skis_003605.jpg": [
+                "the black plastic piece on the left ski.",
+                "skis",
+                "bindings"
+            ],
+            "skis_000034.jpg": [
+                "a black and white ski.",
+                "ski",
+                "waist"
+            ],
+            "skis_002849.jpg": [
+                "a black snowboard.",
+                "Skis",
+                "Tips"
+            ],
+            "skis_003010.jpg": [
+                "a pair of skis.",
+                "skis",
+                "bindings area"
+            ],
+            "skis_002328.jpg": [
+                "a black strap on the ski.",
+                "skis",
+                "bindings"
+            ],
+            "skis_000776.jpg": [
+                "the white part on the ski.",
+                "Skis",
+                "Tips"
+            ],
+            "skis_001215.jpg": [
+                "the snowboard is pink in color.",
+                "skis",
+                "bindings"
+            ],
+            "skis_001357.jpg": [
+                "the black color of the ski.",
+                "skis",
+                "waist"
+            ],
+            "skis_001547.jpg": [
+                "red and black ski.",
+                "ski",
+                "waist"
+            ],
+            "skis_003515.jpg": [
+                "the top of the ski is red.",
+                "ski",
+                "waist"
+            ],
+            "skis_003609.jpg": [
+                "the buckle on the ski.",
+                "skis",
+                "bindings"
+            ],
+            "skis_002829.jpg": [
+                "a pair of skis.",
+                "ski",
+                "waist"
+            ]
+        },
+        "skateboard": {
+            "skateboard_000711.jpg": [
+                "the skateboard is green.",
+                "longboard",
+                "deck"
+            ],
+            "skateboard_002530.jpg": [
+                "part of a floor.",
+                "electric skateboard",
+                "deck"
+            ],
+            "skateboard_001152.jpg": [
+                "logo on the skateboard.",
+                "skateboard",
+                "deck"
+            ],
+            "skateboard_000183.jpg": [
+                "the skateboard is yellow.",
+                "skateboard",
+                "deck"
+            ],
+            "skateboard_003620.jpg": [
+                "part of a board.",
+                "caster board",
+                "torsion bar"
+            ],
+            "skateboard_002064.jpg": [
+                "the board is blue in color.",
+                "skateboard",
+                "deck"
+            ],
+            "skateboard_000676.jpg": [
+                "part of a board.",
+                "skateboard",
+                "deck"
+            ],
+            "skateboard_000797.jpg": [
+                "black strap on the bag.",
+                "backpack",
+                "straps"
+            ],
+            "skateboard_001460.jpg": [
+                "the skateboard is blue.",
+                "skateboard",
+                "deck"
+            ],
+            "skateboard_002490.jpg": [
+                "a white spot on the skateboard.",
+                "skateboard",
+                "deck"
+            ],
+            "skateboard_001082.jpg": [
+                "skateboard on the ground.",
+                "skateboard",
+                "deck"
+            ],
+            "skateboard_002387.jpg": [
+                "blue and yellow design on the skateboard.",
+                "skateboard",
+                "deck"
+            ],
+            "skateboard_002334.jpg": [
+                "a skateboard with a black top.",
+                "skateboard",
+                "deck"
+            ],
+            "skateboard_002867.jpg": [
+                "the top of the skateboard is flat.",
+                "skateboard",
+                "deck"
+            ],
+            "skateboard_003213.jpg": [
+                "a green and red skateboard.",
+                "skateboard",
+                "deck"
+            ],
+            "skateboard_000671.jpg": [
+                "green and white design on the bottom of the skateboard.",
+                "longboard",
+                "deck"
+            ],
+            "skateboard_001232.jpg": [
+                "part of a board.",
+                "skateboard",
+                "deck"
+            ],
+            "skateboard_002488.jpg": [
+                "part of a board.",
+                "skateboard",
+                "deck"
+            ],
+            "skateboard_002668.jpg": [
+                "a white and black design on the bottom of the skateboard.",
+                "skateboard",
+                "deck"
+            ],
+            "skateboard_000355.jpg": [
+                "a skateboard with a rainbow design.",
+                "skateboard",
+                "deck"
+            ]
+        },
+        "surfboard": {
+            "surfboard_002631.jpg": [
+                "a blue surfboard on the sand.",
+                "surfboard",
+                "deck"
+            ],
+            "surfboard_000658.jpg": [
+                "a blue and white surfboard.",
+                "surfboard",
+                "deck"
+            ],
+            "surfboard_000010.jpg": [
+                "a blue and white surfboard.",
+                "wakesurf board",
+                "deck"
+            ],
+            "surfboard_000221.jpg": [
+                "a surfboard on the beach.",
+                "surfboard",
+                "deck"
+            ],
+            "surfboard_002878.jpg": [
+                "the bag is black.",
+                "wakesurf board cover",
+                "main body"
+            ],
+            "surfboard_003369.jpg": [
+                "the surfboard is blue.",
+                "surfboard",
+                "deck"
+            ],
+            "surfboard_002422.jpg": [
+                "a white surfboard with a design on it.",
+                "surfboard",
+                "deck"
+            ],
+            "surfboard_003300.jpg": [
+                "a surfboard with a rainbow design.",
+                "surfboard",
+                "deck"
+            ]
+        },
+        "snowboard": {
+            "snowboard_001335.jpg": [
+                "red and black design on snowboard.",
+                "snowboard",
+                "bindings"
+            ],
+            "snowboard_002024.jpg": [
+                "the top of the snowboard.",
+                "snowboard",
+                "bindings area"
+            ],
+            "snowboard_001704.jpg": [
+                "the center of the board has a black spot.",
+                "snowboard",
+                "bindings area"
+            ],
+            "snowboard_001325.jpg": [
+                "a black strap on a shoe.",
+                "snowboard",
+                "bindings"
+            ],
+            "snowboard_001840.jpg": [
+                "the snowboard is blue in color.",
+                "snowboard",
+                "deck"
+            ],
+            "snowboard_000513.jpg": [
+                "-",
+                "snowboard",
+                "bindings"
+            ]
+
+        }
+    },
+    "pick_up": {
+        "skis": {
+            "skis_003605.jpg": [
+                "black plastic piece on ski.",
+                "skis",
+                "bindings"
+            ],
+            "skis_002328.jpg": [
+                "black strap on the ski.",
+                "skis",
+                "bindings"
+            ],
+            "skis_001215.jpg": [
+                "the snowboard is pink in color.",
+                "skis",
+                "bindings"
+            ],
+            "skis_001547.jpg": [
+                "red and black ski brand name.",
+                "ski",
+                "bindings"
+            ],
+            "skis_003515.jpg": [
+                "the word scotch on the left ski.",
+                "ski",
+                "bindings"
+            ],
+            "skis_003609.jpg": [
+                "a metal ski clip.",
+                "skis",
+                "bindings"
+            ],
+            "skis_002829.jpg": [
+                "a pair of skis.",
+                "skis",
+                "bindings"
+            ]
+        },
+        "suitcase": {
+            "suitcase_001132.jpg": [
+                "blue stripe on basket.",
+                "basket",
+                "handle"
+            ],
+            "suitcase_001890.jpg": [
+                "the handle of a suitcase.",
+                "briefcase",
+                "handle"
+            ],
+            "suitcase_003331.jpg": [
+                "the handle of a suitcase.",
+                "suitcase",
+                "handle"
+            ],
+            "suitcase_000101.jpg": [
+                "the handle is brown.",
+                "wooden suitcase",
+                "handle"
+            ],
+            "suitcase_003339.jpg": [
+                "handle of the suitcase.",
+                "blue rolling backpack or suitcase",
+                "carrying handle"
+            ],
+            "suitcase_001236.jpg": [
+                "brown handle on suitcase.",
+                "suitcase",
+                "side handles"
+            ],
+            "suitcase_003156.jpg": [
+                "the handle is blue.",
+                "suitcase",
+                "handle"
+            ],
+            "suitcase_002998.jpg": [
+                "a metal handle on the suitcase.",
+                "suitcase",
+                "side handle"
+            ],
+            "suitcase_002493.jpg": [
+                "the handle of a suitcase.",
+                "suitcase",
+                "handle"
+            ],
+            "suitcase_001387.jpg": [
+                "the handle is brown.",
+                "suitcase",
+                "handle"
+            ],
+            "suitcase_002612.jpg": [
+                "the handle is brown.",
+                "suitcase",
+                "handle"
+            ],
+            "suitcase_003434.jpg": [
+                "the handle of a suitcase.",
+                "suitcase",
+                "handle"
+            ],
+            "suitcase_001123.jpg": [
+                "the handle is brown.",
+                "suitcase",
+                "handle"
+            ],
+            "suitcase_003418.jpg": [
+                "a metal handle on the suitcase.",
+                "suitcase",
+                "side handles"
+            ],
+            "suitcase_000529.jpg": [
+                "the handle is black.",
+                "suitcase",
+                "side handle"
+            ]
+        }
+    },
+    "text_on": {
+        "cell_phone": {
+            "cell_phone_003361.jpg": [
+                "the phone is turned on.",
+                "smartphone",
+                "screen/display"
+            ],
+            "cell_phone_000396.jpg": [
+                "the word text on the screen.",
+                "smartphone",
+                "screen/display"
+            ],
+            "cell_phone_001694.jpg": [
+                "the screen is white in color.",
+                "smartphone",
+                "screen"
+            ],
+            "cell_phone_001260.jpg": [
+                "the word text on the phone.",
+                "smartphone",
+                "screen"
+            ],
+            "cell_phone_000601.jpg": [
+                "the phone is black.",
+                "smartphone",
+                "screen"
+            ],
+            "cell_phone_001134.jpg": [
+                "the screen is black.",
+                "smartphone",
+                "screen"
+            ],
+            "cell_phone_000320.jpg": [
+                "the phone is black in color.",
+                "smartphone",
+                "screen"
+            ],
+            "cell_phone_003507.jpg": [
+                "the screen of a cell phone.",
+                "smartphone",
+                "screen"
+            ],
+            "cell_phone_001827.jpg": [
+                "the screen is black.",
+                "smartphone",
+                "screen"
+            ]
+        }
+    },
+    "write": {
+        "pen": {
+            "pen_001021.jpg": [
+                "the pen has a gold ball.",
+                "pen",
+                "tip"
+            ],
+            "pen_001576.jpg": [
+                "the top of the pen.",
+                "fountain pen",
+                "nib"
+            ],
+            "pen_000387.jpg": [
+                "the tip of the pen.",
+                "pen",
+                "tip"
+            ],
+            "pen_003144.jpg": [
+                "the tip of the pen.",
+                "Pen",
+                "Nib or tip"
+            ],
+            "pen_000216.jpg": [
+                "the pen is silver.",
+                "mechanical pencil",
+                "lead"
+            ],
+            "pen_000541.jpg": [
+                "the book is white in color.",
+                "Book",
+                "Pages"
+            ],
+            "pen_003441.jpg": [
+                "the pen is made of metal.",
+                "pen",
+                "tip"
+            ],
+            "pen_000458.jpg": [
+                "gold tip of pen.",
+                "fountain pen",
+                "nib"
+            ],
+            "pen_003638.jpg": [
+                "the pen is black in color.",
+                "pen",
+                "tip"
+            ],
+            "pen_003309.jpg": [
+                "the pen is red.",
+                "pen",
+                "tip"
+            ],
+            "pen_001832.jpg": [
+                "the tip of the pen.",
+                "Pen",
+                "Tip"
+            ],
+            "pen_000916.jpg": [
+                "a pen.",
+                "pen",
+                "tip"
+            ],
+            "pen_003526.jpg": [
+                "the tip of the pen.",
+                "pen",
+                "tip"
+            ],
+            "pen_003654.jpg": [
+                "the pen has a gold tip.",
+                "fountain pen",
+                "nib"
+            ],
+            "pen_001544.jpg": [
+                "the tip of the pencil.",
+                "pencil",
+                "graphite core"
+            ],
+            "pen_001828.jpg": [
+                "the pen is made of metal.",
+                "pen",
+                "tip"
+            ],
+            "pen_001029.jpg": [
+                "the clip on the pen.",
+                "Pen",
+                "Tip"
+            ],
+            "pen_003590.jpg": [
+                "the silver tip of the pen.",
+                "pen",
+                "tip"
+            ],
+            "pen_001589.jpg": [
+                "a white notebook with a pen.",
+                "pen",
+                "tip"
+            ],
+            "pen_002049.jpg": [
+                "-",
+                "pen",
+                "Nib/Tip"
+            ]
+        }
+    },
+    "lift": {
+        "fork": {
+            "fork_001769.jpg": [
+                "white background behind fork.",
+                "fork",
+                "handle"
+            ],
+            "fork_000804.jpg": [
+                "the background is white.",
+                "fork",
+                "handle"
+            ],
+            "fork_000653.jpg": [
+                "the table cloth is black.",
+                "fork",
+                "handle"
+            ],
+            "fork_000297.jpg": [
+                "part of a bread.",
+                "bagel sandwich",
+                "bagel"
+            ],
+            "fork_000112.jpg": [
+                "the tip of the fork.",
+                "fork",
+                "handle"
+            ],
+            "fork_001691.jpg": [
+                "white background behind fork.",
+                "fork",
+                "handle"
+            ],
+            "fork_001585.jpg": [
+                "the handle of a fork.",
+                "fork",
+                "handle"
+            ],
+            "fork_002360.jpg": [
+                "the tip of the fork is shiny.",
+                "fork",
+                "handle"
+            ],
+            "fork_000840.jpg": [
+                "a small piece of food.",
+                "Utensil",
+                "fork"
+            ],
+            "fork_002683.jpg": [
+                "the plates are white.",
+                "fork",
+                "handle"
+            ],
+            "fork_000095.jpg": [
+                "the fork is silver.",
+                "fork",
+                "handle"
+            ],
+            "fork_000849.jpg": [
+                "the topmost fork is the tallest.",
+                "fork",
+                "handle"
+            ],
+            "fork_002764.jpg": [
+                "the tip of the fork.",
+                "fork",
+                "handle"
+            ],
+            "fork_003000.jpg": [
+                "the handle is black.",
+                "sharpening steel",
+                "handle"
+            ]
+        }
+    }
+}

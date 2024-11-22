@@ -145,3 +145,21 @@ dmypy.json
 outputs/
 
 .idea/
+
+# jaehong
+to_visualize/
+# assets/
+# data/
+data/*
+# demo/
+# checkpoints/*
+# demo_images/
+# gdino_checkpoints/*
+# grounding_dino/
+outputs/*
+# notebooks/
+quali/
+sam2/
+# sav_dataset/
+quali.tar
+sorted_results/

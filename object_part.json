@@ -1,0 +1,441 @@
+{
+    "pour": {
+        "wine": [
+            "liquid",
+            "bowl"
+        ],
+        "wine_glass": [
+            "bowl",
+            "Bowl",
+            "wine",
+            "drink",
+            "liquid",
+            "rim"
+        ],
+        "mug": [
+            "Tea",
+            "rim",
+            "Body",
+            "Coffee"
+        ],
+        "coffee_cup": [
+            "Handle",
+            "rim",
+            "Body"
+        ],
+        "coffee": [
+            "cup",
+            "Cup",
+            "Coffee"
+        ],
+        "auto_part": [
+            "basket"
+        ],
+        "bottle": [
+            "cork stopper",
+            "Lip_Rim",
+            "Cap",
+            "nipple",
+            "cap",
+            "Beer",
+            "Cork",
+            "opening"
+        ]
+    },
+    "look_out": {
+        "binoculars": [
+            "eyepieces"
+        ]
+    },
+    "swing": {
+        "baseball_bat": [
+            "handle"
+        ],
+        "bat_(animal)": [
+            "handle_grip",
+            "handle"
+        ],
+        "golf_ball": [
+            "grip",
+            "Shaft"
+        ],
+        "hammer": [
+            "grip"
+        ],
+        "tennis_racket": [
+            "grip",
+            "handle_grip",
+            "grip_handle",
+            "handle"
+        ]
+    },
+    "hit": {
+        "baseball_bat": [
+            "bat head",
+            "barrel"
+        ],
+        "bat_(animal)": [
+            "barrel"
+        ],
+        "hammer": [
+            "face",
+            "blade",
+            "head",
+            "poll"
+        ],
+        "axe": [
+            "blade"
+        ],
+        "tennis_racket": [
+            "strings"
+        ]
+    },
+    "take_photo": {
+        "mobile_phone": [
+            "Front Camera",
+            "Screen",
+            "camera",
+            "front camera",
+            "Camera"
+        ],
+        "camera": [
+            "shutter button",
+            "Shutter Button",
+            "button",
+            "shutter release",
+            "Controls",
+            "Buttons and Dials"
+        ]
+    },
+    "catch": {
+        "football": [
+            "outer covering",
+            "Net",
+            "outer leather cover",
+            "Outer Covering"
+        ],
+        "ball": [
+            "surface texture",
+            "surface material",
+            "surface",
+            "panels",
+            "cover",
+            "outer cover"
+        ],
+        "dog": [
+            "mouth"
+        ],
+        "bomb": [
+            "Outer Ring"
+        ],
+        "flying_disc": [
+            "Rim",
+            "rim"
+        ],
+        "aircraft": [
+            "Outer Ring"
+        ],
+        "drill_(tool)": [
+            "Frame"
+        ],
+        "poster": [
+            "Edge"
+        ],
+        "rugby_ball": [
+            "outer cover"
+        ]
+    },
+    "hold": {
+        "baseball_bat": [
+            "handle_grip",
+            "handle"
+        ],
+        "bat_(animal)": [
+            "handle_grip",
+            "handle"
+        ],
+        "chime": [
+            "skier's boots",
+            "Attachments",
+            "bindings",
+            "Toe Piece"
+        ],
+        "ski": [
+            "bindings area",
+            "top sheet",
+            "waist",
+            "bindings"
+        ],
+        "skateboard": [
+            "deck"
+        ],
+        "platter": [
+            "decks"
+        ],
+        "book": [
+            "pages",
+            "Pages",
+            "binding",
+            "Cover",
+            "spine"
+        ],
+        "food": [
+            "spine"
+        ],
+        "laptop": [
+            "cover"
+        ],
+        "coffee_table": [
+            "tabletop"
+        ],
+        "camera": [
+            "body"
+        ],
+        "man": [
+            "cover",
+            "Cover"
+        ],
+        "hammer": [
+            "grip",
+            "Grip",
+            "handle"
+        ],
+        "axe": [
+            "grip"
+        ],
+        "wine": [
+            "stem"
+        ],
+        "wine_glass": [
+            "Stem",
+            "stem"
+        ],
+        "knife": [
+            "Handle",
+            "handle"
+        ],
+        "apple": [
+            "flesh"
+        ],
+        "sandwich": [
+            "bread roll"
+        ],
+        "sword": [
+            "grip"
+        ],
+        "kitchen_knife": [
+            "handle"
+        ],
+        "bread": [
+            "crumb",
+            "slices"
+        ],
+        "surfboard": [
+            "deck",
+            "main body",
+            "rails"
+        ],
+        "golf_ball": [
+            "Handle",
+            "grip"
+        ],
+        "fork": [
+            "handle"
+        ],
+        "bagel": [
+            "bagel"
+        ],
+        "kitchen_utensil": [
+            "fork"
+        ],
+        "weapon": [
+            "handle"
+        ],
+        "mixing_bowl": [
+            "rim"
+        ],
+        "bowl": [
+            "base",
+            "rim"
+        ],
+        "human_hand": [
+            "holding part"
+        ],
+        "coconut": [
+            "nut"
+        ],
+        "chopsticks": [
+            "entirety"
+        ],
+        "mug": [
+            "Handle",
+            "main container",
+            "handle"
+        ],
+        "coffee_cup": [
+            "Handle",
+            "Cup",
+            "handle"
+        ],
+        "coffee": [
+            "portafilter",
+            "Handle",
+            "Cup",
+            "handle"
+        ],
+        "bomb": [
+            "Inner Edge"
+        ],
+        "flying_disc": [
+            "Rim",
+            "outer rim",
+            "Outer Ring",
+            "rim"
+        ],
+        "aircraft": [
+            "Inner Edge"
+        ],
+        "drill_(tool)": [
+            "rope"
+        ],
+        "poster": [
+            "Inner Edge"
+        ],
+        "suitcase": [
+            "side handle",
+            "side handles",
+            "handle"
+        ],
+        "backpack": [
+            "top handle"
+        ],
+        "scissors": [
+            "handle",
+            "finger rings",
+            "handles"
+        ],
+        "toothbrush": [
+            "handle"
+        ],
+        "tennis_racket": [
+            "grip",
+            "handle_grip",
+            "grip_handle"
+        ],
+        "bottle": [
+            "body",
+            "Body",
+            "Bottle",
+            "Bottle Neck",
+            "main glass container",
+            "neck",
+            "Narrow neck"
+        ],
+        "snack": [
+            "handle"
+        ],
+        "snowboard": [
+            "bindings area",
+            "bindings"
+        ]
+    },
+    "type_on": {
+        "laptop": [
+            "keyboard"
+        ],
+        "computer_monitor": [
+            "keyboard"
+        ],
+        "weapon": [
+            "Keycaps"
+        ],
+        "musical_keyboard": [
+            "Keys",
+            "keys"
+        ],
+        "computer_keyboard": [
+            "Keys",
+            "keys",
+            "keycaps"
+        ]
+    },
+    "carry": {
+        "ski": [
+            "bindings area",
+            "Tips",
+            "bindings",
+            "waist"
+        ],
+        "skateboard": [
+            "deck"
+        ],
+        "platter": [
+            "torsion bar"
+        ],
+        "backpack": [
+            "straps"
+        ],
+        "surfboard": [
+            "deck",
+            "main body"
+        ],
+        "snowboard": [
+            "bindings area",
+            "bindings",
+            "deck"
+        ]
+    },
+    "pick_up": {
+        "ski": [
+            "bindings"
+        ],
+        "ball": [
+            "handle"
+        ],
+        "briefcase": [
+            "handle"
+        ],
+        "suitcase": [
+            "side handle",
+            "side handles",
+            "handle"
+        ],
+        "backpack": [
+            "carrying handle"
+        ]
+    },
+    "text_on": {
+        "mobile_phone": [
+            "screen",
+            "screen_display"
+        ]
+    },
+    "write": {
+        "pen": [
+            "Tip",
+            "nib",
+            "lead",
+            "Nib or tip",
+            "Nib_Tip",
+            "graphite core",
+            "tip"
+        ],
+        "book": [
+            "Pages"
+        ]
+    },
+    "lift": {
+        "fork": [
+            "handle"
+        ],
+        "bagel": [
+            "bagel"
+        ],
+        "kitchen_utensil": [
+            "fork"
+        ],
+        "weapon": [
+            "handle"
+        ]
+    }
+}

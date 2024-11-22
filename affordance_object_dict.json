@@ -1,0 +1,77 @@
+{
+    "carry": [
+        "skis",
+        "surfboard",
+        "snowboard",
+        "skateboard"
+    ],
+    "catch": [
+        "frisbee",
+        "rugby_ball",
+        "soccer_ball"
+    ],
+    "hold": [
+        "book",
+        "suitcase",
+        "snowboard",
+        "bowl",
+        "badminton_racket",
+        "surfboard",
+        "tennis_racket",
+        "knife",
+        "toothbrush",
+        "hammer",
+        "wine_glass",
+        "bottle",
+        "cup",
+        "fork",
+        "frisbee",
+        "skateboard",
+        "skis",
+        "golf_clubs",
+        "axe",
+        "baseball_bat",
+        "scissors"
+    ],
+    "take_photo": [
+        "camera",
+        "cell_phone"
+    ],
+    "type_on": [
+        "keyboard",
+        "laptop"
+    ],
+    "swing": [
+        "golf_clubs",
+        "baseball_bat",
+        "tennis_racket",
+        "badminton_racket"
+    ],
+    "pour": [
+        "cup",
+        "bottle",
+        "wine_glass"
+    ],
+    "pick_up": [
+        "skis",
+        "suitcase"
+    ],
+    "hit": [
+        "axe",
+        "hammer",
+        "baseball_bat",
+        "tennis_racket"
+    ],
+    "look_out": [
+        "binoculars"
+    ],
+    "lift": [
+        "fork"
+    ],
+    "write": [
+        "pen"
+    ],
+    "text_on": [
+        "cell_phone"
+    ]
+}
