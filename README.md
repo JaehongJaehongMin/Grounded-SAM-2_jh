@@ -19,7 +19,7 @@ nano ~/.bashrc
 ### Step 2: Add the following lines
 ```
 export PATH=/usr/local/cuda/bin:$PATH
-export CUDA_HOME=/usr/local/cuda-12.1
+export CUDA_HOME=/usr/local/cuda
 export LD_LIBRARY_PATH=/usr/local/cuda/lib64:$LD_LIBRARY_PATH
 ```
 
